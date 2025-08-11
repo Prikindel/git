@@ -17,10 +17,6 @@ fun add(a: Int, b: Int): Int {
     return a + b + b
 }
 
-fun foo() {
-    println("Foo")
-}
-
 fun subtract(a: Int, b: Int): Int {
     println("Subtracting $b from $a...")
     return a - b
